@@ -1,21 +1,21 @@
-name,tags,description,website,github,paper,hf_dataset_name,hf_contributor_handle,hf_model_name
-BETO,"BERT / base (case, uncased) / prop髎ito general",,,,https://users.dcc.uchile.cl/~jperez/papers/pml4dc2020.pdf,,dccuchile,bert-base-spanish-wwm-uncased
-BERTIN-GPT-J-6B,GPT-J / LLM / prop髎ito general,,,,,,bertin-project,bertin-gpt-j-6B
-BERTIN RoBERTa,RoBERTa / base / prop髎ito general,,https://huggingface.co/spaces/bertin-project/bertin,,,,bertin-project,bertin-roberta-base-spanish
-BioMedtra,Electra / small / textos biocl韓icos,,,,,,mrm8488,biomedtra-small-es
-BLOOM,multiling黣 / LLM / prop髎ito general,,,,,,bigscience,bloom
-BLOOMZ,multiling黣 / LLM / prop髎ito general / instrucciones / IT,,,,,,bigscience,bloomz
-Electricidad,"Electra / small, base / prop髎ito general",,,,,,mrm8488,electricidad-base-discriminator
-GPT-2 BERTIN,GPT-2 / base / prop髎ito general,,,,,,flax-community,gpt-2-spanish
-GPT-2 BNE,"GPT-2 / base, large / prop髎ito general",,,,,,PlanTL-GOB-ES,gpt2-base-bne
-GPT-2 Datificate,GPT-2 / small / prop髎ito general,,,,,,datificate,gpt2-small-spanish
-GPT-2 DeepESP,GPT-2 / base / prop髎ito general,,,,,,DeepESP,gpt2-spanish
-GPT-2 mrm8488,GPT-2 / base / prop髎ito general,,,,,,mrm8488,spanish-gpt2
+nombre,tags,description,website,github,paper,hf_dataset_name,hf_contributor_handle,hf_model_name
+BETO,"BERT / base (case, uncased) / prop贸sito general",,,,https://users.dcc.uchile.cl/~jperez/papers/pml4dc2020.pdf,,dccuchile,bert-base-spanish-wwm-uncased
+BERTIN-GPT-J-6B,GPT-J / LLM / prop贸sito general,,,,,,bertin-project,bertin-gpt-j-6B
+BERTIN RoBERTa,RoBERTa / base / prop贸sito general,,https://huggingface.co/spaces/bertin-project/bertin,,,,bertin-project,bertin-roberta-base-spanish
+BioMedtra,Electra / small / textos biocl铆nicos,,,,,,mrm8488,biomedtra-small-es
+BLOOM,multiling眉e / LLM / prop贸sito general,,,,,,bigscience,bloom
+BLOOMZ,multiling眉e / LLM / prop贸sito general / instrucciones / IT,,,,,,bigscience,bloomz
+Electricidad,"Electra / small, base / prop贸sito general",,,,,,mrm8488,electricidad-base-discriminator
+GPT-2 BERTIN,GPT-2 / base / prop贸sito general,,,,,,flax-community,gpt-2-spanish
+GPT-2 BNE,"GPT-2 / base, large / prop贸sito general",,,,,,PlanTL-GOB-ES,gpt2-base-bne
+GPT-2 Datificate,GPT-2 / small / prop贸sito general,,,,,,datificate,gpt2-small-spanish
+GPT-2 DeepESP,GPT-2 / base / prop贸sito general,,,,,,DeepESP,gpt2-spanish
+GPT-2 mrm8488,GPT-2 / base / prop贸sito general,,,,,,mrm8488,spanish-gpt2
 Legalectra,"Electra / small, base / legal",,,,,,mrm8488,legalectra-base
-LINCE-ZERO,"LLM / 7B, 40B / prop髎ito general / instrucciones / IT",,https://huggingface.co/clibrain/lince-zero,,,,clibrain,lince-zero
-mT0,multiling黣 / LLM / prop髎ito general / instrucciones / IT / encoder-decoder,,,,,,bigscience,mt0-base
-RoBERTa Biomedical Clinical,RoBERTa / base / textos biocl韓icos,,,https://github.com/PlanTL-GOB-ES/lm-biomedical-clinical-es,https://arxiv.org/abs/2109.03570,,PlanTL-GOB-ES,roberta-base-biomedical-clinical-es
-RoBERTa BNE,"RoBERTa / base, large / prop髎ito general",,,,,,PlanTL-GOB-ES,roberta-base-bne
+LINCE-ZERO,"LLM / 7B, 40B / prop贸sito general / instrucciones / IT",,https://huggingface.co/clibrain/lince-zero,,,,clibrain,lince-zero
+mT0,multiling眉e / LLM / prop贸sito general / instrucciones / IT / encoder-decoder,,,,,,bigscience,mt0-base
+RoBERTa Biomedical Clinical,RoBERTa / base / textos biocl铆nicos,,,https://github.com/PlanTL-GOB-ES/lm-biomedical-clinical-es,https://arxiv.org/abs/2109.03570,,PlanTL-GOB-ES,roberta-base-biomedical-clinical-es
+RoBERTa BNE,"RoBERTa / base, large / prop贸sito general",,,,,,PlanTL-GOB-ES,roberta-base-bne
 RoBERTalex,RoBERTa / base / legal,,,,,,PlanTL-GOB-ES,RoBERTalex
 RoBERTuito,"Roberta / cased, uncased, deaccented / redes sociales",,,https://github.com/pysentimiento/robertuito,https://arxiv.org/abs/2111.09453,,pysentimiento,robertuito
-T5 Small,T5 / small / prop髎ito general,,,,,,flax-community,spanish-t5-small
+T5 Small,T5 / small / prop贸sito general,,,,,,flax-community,spanish-t5-small
