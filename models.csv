@@ -13,7 +13,7 @@ GPT-2 BNE,GPT-2 / base / large / propósito general,,,,PlanTL-GOB-ES,gpt2-base-b
 GPT-2 Datificate,GPT-2 / small / propósito general,,,,datificate,gpt2-small-spanish
 GPT-2 DeepESP,GPT-2 / base / propósito general,,,,DeepESP,gpt2-spanish
 GPT-2 mrm8488,GPT-2 / base / propósito general,,,,mrm8488,spanish-gpt2
-Legalectra, Electra / small / base / legal,,,,mrm8488,legalectra-base
+Legalectra, Electra / small / base / legal,,,mrm8488,legalectra-base
 LINCE-ZERO,LLM / 7B / 40B / propósito general / instrucciones / IT,https://huggingface.co/clibrain/lince-zero,,clibrain,lince-zero
 mT0,multilingüe / LLM / propósito general / instrucciones / IT / encoder-decoder,,,,bigscience,mt0-base
 RoBERTa Biomedical Clinical,RoBERTa / base / textos bioclínicos,,https://github.com/PlanTL-GOB-ES/lm-biomedical-clinical-es,https://arxiv.org/abs/2109.03570,PlanTL-GOB-ES,roberta-base-biomedical-clinical-es
